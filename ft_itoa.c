@@ -6,7 +6,7 @@
 /*   By: ayassir <ayassir@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/15 15:33:49 by ayassir           #+#    #+#             */
-/*   Updated: 2021/11/24 13:50:38 by ayassir          ###   ########.fr       */
+/*   Updated: 2022/06/30 09:25:58 by ayassir          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -43,17 +43,17 @@ long	ft_topstv(long n)
 
 char	*ft_itoa(int n)
 {
-	int		j;
-	long	i;
-	int		rem;
-	int		len;
-	char	*str;
+	char		*str;
+	long		i;
+	int			j;
+	int			rem;
+	int			len;
 
 	rem = 0;
 	len = ft_test(n);
 	j = 0;
 	i = ft_topstv(n);
-	str = malloc ((len + 1) * sizeof(char));
+	str = (char *)malloc((len + 1) * sizeof(char));
 	if (!str)
 		return (NULL);
 	while (len > j)

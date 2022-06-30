@@ -6,7 +6,7 @@
 /*   By: ayassir <ayassir@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/21 13:20:00 by ayassir           #+#    #+#             */
-/*   Updated: 2021/11/21 19:01:29 by ayassir          ###   ########.fr       */
+/*   Updated: 2022/06/30 09:31:48 by ayassir          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -76,7 +76,6 @@ char		*ft_strstr(const char *haystack, const char *needle);
 char		*ft_strnstr(const char *haystack, const char *needle, size_t len);
 char		*ft_strnew(size_t size);
 char		*ft_itoa(int n);
-char		ft_toint(int n);
 char		*ft_substr(char const *s, unsigned int start, size_t len);
 char		*ft_strjoin(char const *s1, char const *s2);
 char		*ft_strcat(char *dst, char *src);
