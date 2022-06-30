@@ -66,7 +66,7 @@ You should see a *libft.a* file and some object files (.o).
 
 This is a list of my projects that use Libft extensively:
 
-* [get_next_line](https://github.com/junik1337/42cursus_get_next_line)
-* [ft_printf](https://github.com/junik1337/42cursus_printf)
+* [Get_next_line](https://github.com/junik1337/42cursus_get_next_line)
+* [Ft_printf](https://github.com/junik1337/42cursus_ft_printf)
 
 <a href="https://profile.intra.42.fr/users/ayassir"><img src="https://img.shields.io/badge/School-Born2code-2ea44f?style=for-the-badge&logo=42" alt="School - Born2code"></a>
