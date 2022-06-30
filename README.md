@@ -69,4 +69,10 @@ This is a list of my projects that use Libft extensively:
 * [Get_next_line](https://github.com/junik1337/42cursus_get_next_line)
 * [Ft_printf](https://github.com/junik1337/42cursus_ft_printf)
 
+![Made with c](https://forthebadge.com/images/badges/made-with-c.svg) 
+![Followers](https://img.shields.io/github/followers/junik1337?style=for-the-badge) 
+![Code size](https://img.shields.io/github/languages/code-size/junik1337/42cursus_philosophers?style=for-the-badge) 
+![Language %](https://img.shields.io/github/languages/top/junik1337/42cursus_philosophers?style=for-the-badge) 
+![Time](https://img.shields.io/date/1656580778?style=for-the-badge)
 <a href="https://profile.intra.42.fr/users/ayassir"><img src="https://img.shields.io/badge/School-Born2code-2ea44f?style=for-the-badge&logo=42" alt="School - Born2code"></a>
+
